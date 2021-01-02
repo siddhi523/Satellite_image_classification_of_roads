@@ -1,4 +1,4 @@
-# Road Segmentation - Ahmed Ahres, Ali El Abridi, Khalil Elleuch
+# Road Segmentation
 
 ## Important:
 Due to the restricted size of 100MB to upload, please make sure that there is a folder called "provided" in which there are 2 folders:
